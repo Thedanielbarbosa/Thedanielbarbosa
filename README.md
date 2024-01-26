@@ -26,9 +26,15 @@
 ### Studying in this moment:    
 <div style="display: inline_block"><br>
 <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Daniel-Js" height="30" width="40" src="https://github.com/Thedanielbarbosa/Thedanielbarbosa/assets/157329065/065e6acf-f0f5-4a88-8fbf-49b09118075c">
-<img align="center" alt="Daniel-Js" height="30" width="40" src="https://github.com/Thedanielbarbosa/Thedanielbarbosa/assets/157329065/ab7d928a-dcb7-4bc8-892e-be7110f516ac">
+<img align="center" alt="Daniel-Js" height="34" width="44" src="https://github.com/Thedanielbarbosa/Thedanielbarbosa/assets/157329065/50aacccb-4f64-4c35-9c4d-b658143e4ff0">
+<img align="center" alt="Daniel-Js" height="30" width="40" src="https://github.com/Thedanielbarbosa/Thedanielbarbosa/assets/157329065/dfae654a-69f0-4161-b7ce-614af985c46d">
 
+</div>
+
+<div align="center">
+<br><p align="left"><b>Visitors Count</b></p>  
+<p align="center"><img align="left" src="https://profile-counter.glitch.me/{Thedanielbarbosa}/count.svg" /></p> 
+<br>
 </div>
 
 
