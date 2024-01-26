@@ -23,6 +23,10 @@
   <img align="center" alt="Daniel-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Daniel-Js" height="50" width="30" src="https://github.com/Thedanielbarbosa/Thedanielbarbosa/assets/157329065/122d470e-bb69-48a4-a240-5f6db5a92e64">
 </div>
+  
+  ##
+ 
+<div> 
 
 ### Studying in this moment:                                                                                                                                                                               
 <div style="display: inline_block"><br>
@@ -32,11 +36,4 @@
 
 </div>
 
-  ##
-
-<div align="center">
-<br><p align="left"><b>Visitors Count</b></p>  
-<p align="center"><img align="left" src="https://profile-counter.glitch.me/{Thedanielbarbosa}/count.svg" /></p> 
-<br>
-</div>
 
