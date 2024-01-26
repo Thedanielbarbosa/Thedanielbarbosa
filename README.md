@@ -2,8 +2,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thedanielbarbosa&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&theme=dracula" alt="Daniel Alves Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thedanielbarbosa&layout=compact&hide_border=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thedanielbarbosa&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&theme=radical" alt="Daniel Alves Barbosa github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thedanielbarbosa&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 ### Main skills:
@@ -31,14 +31,10 @@
 
 </div>
 
-
+  ##
 
 <div align="center">
 <br><p align="left"><b>Visitors Count</b></p>  
 <p align="center"><img align="left" src="https://profile-counter.glitch.me/{Thedanielbarbosa}/count.svg" /></p> 
 <br>
 </div>
-
-
-
-
