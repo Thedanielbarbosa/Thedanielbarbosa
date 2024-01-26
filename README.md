@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thedanielbarbosa&layout=compact&hide_border=true&theme=radical" />
 </div>
 
+
+
 ### Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
