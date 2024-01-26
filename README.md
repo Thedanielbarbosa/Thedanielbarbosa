@@ -39,4 +39,4 @@
 <p align="center"><img align="left" src="https://profile-counter.glitch.me/{Thedanielbarbosa}/count.svg" /></p> 
 <br>
 </div>
-![Snake animatin](https://github.com/Thedanielbarbosa/Thedanielbarbosa)
+
