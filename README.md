@@ -2,8 +2,8 @@
 
 
 <div align="center">  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thedanielbarbosa&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&theme=radical" alt="Daniel Alves Barbosa github stats" /> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thedanielbarbosa&layout=compact&hide_border=true&theme=radical" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Thedanielbarbosa&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&theme=radical" alt="Daniel Alves Barbosa github stats" /> 
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thedanielbarbosa&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 
