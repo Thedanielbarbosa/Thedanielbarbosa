@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel Alves, estudante de engenharia da computação.
+## Olá, seja bem-vindo! Eu sou o Daniel Alves, estudante de engenharia da computação.
 
 
 <div align="center">  
